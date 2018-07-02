@@ -1,3 +1,8 @@
+import sys
+
+#TODO por que es necesario pasarle esto
+sys.path.append('.\classes')
+
 from classes.mascota import Mascota
 from classes.perro import Perro
 
