@@ -29,3 +29,7 @@ type(s) #<class 'tuple'>
 #frozenset
 fs = frozenset({1, 2, 3, 4, 5})
 type(fs) #< type 'frozenset' >
+
+#dict
+d = {'key1':'value1', 'key2':'value2'}
+type(fs) #<class 'dict'>
