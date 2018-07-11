@@ -8,5 +8,5 @@ Introducción a python
 * 4 Funciones generadoras [generator](https://github.com/arturisimo/pyntro/blob/master/04.generator.py) - [series](https://github.com/arturisimo/pyntro/blob/master/04.series.py)
 * 5 Recursividad [hanoi](https://github.com/arturisimo/pyntro/blob/master/05.hanoi.py)
 * 6 Librerías [modulos](https://github.com/arturisimo/pyntro/blob/master/06.modulos.py)
-* 7 Expresiones regulares [regex](https://github.com/arturisimo/pyntro/blob/master/07.regex.py) - [regex.ej](https://github.com/arturisimo/pyntro/blob/master/07.regex.ej.py) 
+* 7 Expresiones regulares [regex](https://github.com/arturisimo/pyntro/blob/master/07.regex.py) - [regex.ej](https://github.com/arturisimo/pyntro/blob/master/07.regex.Ej.py) 
 * 8 Clases [hash](https://github.com/arturisimo/pyntro/blob/master/08.hash.py) - [fruteria](https://github.com/arturisimo/pyntro/blob/master/08.fruteria.py) - [mascota](https://github.com/arturisimo/pyntro/blob/master/08.mascota.py) - [temperatura](https://github.com/arturisimo/pyntro/blob/master/08.temperatura.py)
