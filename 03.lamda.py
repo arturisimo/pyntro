@@ -7,9 +7,9 @@ Cuando tenemos que realizar operaciones sobre colecciones se puede utilizar func
 
 función lambda (funciones anónimas) se utilizan principalmente en combinación con las funciones Map, Filter y Reduce. - lambda argument_list : expression
 
-filter - filtrar todos los elementos de una lista, para los que la función de función devuelve True
-map - toma una función y un iterable como argumentos, y devuelve un nuevo iterable con la función aplicada a cada argumento
-reduce -  reduce los valores de la lista a un solo valor aplicando una funcion reductora
+- filter - filtrar todos los elementos de una lista, para los que la función de filtrado devuelve True
+- map - tranforma una coleccion en otrs aplicando una funcion transformadora a cada elemento
+- reduce -  reduce los valores de la lista a un único valor aplicando una funcion reductora
 
 '''
 

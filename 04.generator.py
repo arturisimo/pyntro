@@ -1,6 +1,7 @@
 '''
 	Python generator. es una funcion iterable. Preserves the funcEonal context
 	yield en Python Se usa para retornar "generators", objetos iteradores que se comportan como una lista.
+	yield hace un return pero guarda el estado. vuelve al punto que se fue
 '''
 
 def f():
